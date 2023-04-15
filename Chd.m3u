@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51YP4C-LjhL._AC_UF894,1000_QL80_FMwebp_.jpg" group-title="PELICULAS-ANIMADAS",€ARS_1.
+http://144.217.70.79/VODS-M/1080P/Cars%202006.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51fPI4Xm9nL._AC_UF894,1000_QL80_FMwebp_.jpg" group-title="PELICULAS-ANIMADAS",€ARS_2.
+http://144.217.70.79/VODS-M/1080P/Cars%202%202011.mkv
